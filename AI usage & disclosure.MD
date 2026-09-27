@@ -37,6 +37,7 @@ Display: main receives the result from extractIPv4 and formats the output exactl
 - The only modification made to A1.cpp was the inclusion of a student-written header, for documentation purposes
 
 Verification Statement:
+
   I have read through the generated code in A1.cpp and understand every line written
   I have thoroughly tested the generated code using the test cases documented in test_cases.txt , and the generated code works as intended
   I did not encounter any bugs, limitations, or unexpected behavior that violated the requirements of this assingment
